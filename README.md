@@ -1,1 +1,2 @@
-# my_new-repo-
+#Hello GitHub
+안녕하세요. 저는 디자인을 공부하는 학생입니다.
